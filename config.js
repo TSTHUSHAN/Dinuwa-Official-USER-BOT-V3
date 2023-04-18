@@ -53,10 +53,10 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94740804536' //Nomor Bot
-global.nomorown = '94740804536' //Nomor Owner
-global.namebot = 'Dinuwa-Official-USER-BOT-V3' //Nama Bot
-global.nameown = 'Dinuwa Official²⁰²³' // Nama Owner
+global.nomorbot = '94710109956' //Nomor Bot
+global.nomorown = '94710109956' //Nomor Owner
+global.namebot = '𝘛𝘏𝘜𝘚𝘏𝘈𝘕-Official-USER-BOT-V3' //Nama Bot
+global.nameown = 'TSTHUSHAN Official²⁰²³' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,7 +65,7 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true] //Replace your number with your name
+  ['94710109956', 'Thushan Official²⁰²³', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
